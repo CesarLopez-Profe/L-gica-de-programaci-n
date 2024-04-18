@@ -1,0 +1,3 @@
+jugador1@X@jugador2@O@XXOOOXXXX
+jugador2@X@jugador3@O@XOOXOXOOX
+jugador3@X@jugador1@O@XOOXOXOXO
