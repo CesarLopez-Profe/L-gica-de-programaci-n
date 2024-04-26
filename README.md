@@ -44,3 +44,19 @@ En este directorio encontraran todo el material desarollado en clase, incluyendo
   • [Taller arreglos](https://github.com/CesarLopez-Profe/Logica-de-programacion/blob/b6df6935ce261abd3ba31eb996b9f7c2d9bf61e4/Talleres/Taller%20Arreglos.docx)
 
   • [Taller ciclos anidados](https://github.com/CesarLopez-Profe/Logica-de-programacion/blob/b6df6935ce261abd3ba31eb996b9f7c2d9bf61e4/Talleres/Taller%20Ciclos%20Anidados.docx)
+
+  • [Taller funciones ciclos](https://github.com/CesarLopez-Profe/Logica-de-programacion/blob/b6df6935ce261abd3ba31eb996b9f7c2d9bf61e4/Talleres/Taller%20Funciones%20Ciclos%202023.docx)
+
+  • [Taller S1 Básico algoritmos](https://github.com/CesarLopez-Profe/Logica-de-programacion/blob/b6df6935ce261abd3ba31eb996b9f7c2d9bf61e4/Talleres/Taller%20S1%20B%C3%A1sico%20Algoritmos.docx)
+
+  • [Taller S2 Condicionales](https://github.com/CesarLopez-Profe/Logica-de-programacion/blob/b6df6935ce261abd3ba31eb996b9f7c2d9bf61e4/Talleres/Taller%20S2%20Condicionales.docx)
+
+  • [Taller S2-1 Condicionales](https://github.com/CesarLopez-Profe/Logica-de-programacion/blob/b6df6935ce261abd3ba31eb996b9f7c2d9bf61e4/Talleres/Taller%20S2-1%20Condicionales.docx)
+
+  • [Taller S4 Lógica de programación-funciones](https://github.com/CesarLopez-Profe/Logica-de-programacion/blob/b6df6935ce261abd3ba31eb996b9f7c2d9bf61e4/Talleres/Taller%20S4%20L%C3%B3gica%20de%20programaci%C3%B3n-Funciones.docx)
+
+  • [Taller archivos](https://github.com/CesarLopez-Profe/Logica-de-programacion/blob/b6df6935ce261abd3ba31eb996b9f7c2d9bf61e4/Talleres/Taller%20archivos%20-%20funciones.docx)
+
+  • [Taller ciclos NO anidados sin funciones](https://github.com/CesarLopez-Profe/Logica-de-programacion/blob/b6df6935ce261abd3ba31eb996b9f7c2d9bf61e4/Talleres/TallerCiclos_no_anidados_sin_func.docx)
+
+  • [Taller ciclos anidados sin funciones](https://github.com/CesarLopez-Profe/Logica-de-programacion/blob/b6df6935ce261abd3ba31eb996b9f7c2d9bf61e4/Talleres/Taller_Ciclos_anidados_Sin_funciones.docx)
